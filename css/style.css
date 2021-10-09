@@ -14,6 +14,13 @@
   margin: 0 auto;
 }
 
+#preloader h2 {
+  font-family: Palatino;
+  font-weight: bold;
+  margin-left: 600px;
+  margin-top: 180px;
+}
+
 #loader {
   width: 200px;
   height: 200px;
@@ -129,17 +136,21 @@ section {
 #interest .container h1 {
   color: #6d0709;
   font-weight: bold;
+  margin: auto;
+  width: 400px;
 }
 
 #interest .container .caption h2 {
   color: #6d0709;
+  width: 300px;
+  margin: auto;
 }
 
 #interest .container .caption p {
   color: #6d0709;
   font-size: 1.3em;
   width: 800px;
-  margin-left: 250px;
+  margin: auto;
 }
 
 #interest .container {
@@ -156,6 +167,9 @@ section {
 .footer_statement {
   color: #ffeeaa;
   padding-bottom: 12px;
+  margin-right: 0;
+  margin-left: auto;
+  width: 700px;
 }
 
 #goToTop {
