@@ -12,7 +12,7 @@ myself getting familier with basic html elements, arrangement among different el
 references from a template (http://www.mobanwang.com/mb/202010/17906.html) and studied its art style. Then I built this homepage from scratch. It
 was a meaningful learning process.
 
-Screenshot: ![screenshot_homepage_xuejiayang](https://sixtraps.github.io/images/screenshot_homepage.png)
+Screenshot: ![screenshot_homepage_xuejiayang](./images/screenshot_homepage.png)
 
 Instruction to build:
 Anyone who are in need can use my homepage as a template. I will continuously update this project as my understanding towards web programming
