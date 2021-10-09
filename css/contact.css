@@ -1,10 +1,7 @@
+/* Settings for navigation bar */
 .logo {
   width: 144px;
   height: 101px;
-}
-
-#body {
-  background-color: #ffeeaa;
 }
 
 .nav-link {
@@ -22,6 +19,12 @@
   background-color: #6d0709;
 }
 
+/* General settings */
+#body {
+  background-color: #ffeeaa;
+}
+
+/* Settings for contact section */
 .contact {
   margin-top: 100px;
 }
@@ -43,6 +46,7 @@
   width: 400px;
 }
 
+/* Settings for footer area section */
 .footer_area {
   background-color: #6d0709;
   padding-bottom: 10px;

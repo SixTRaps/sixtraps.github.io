@@ -1,3 +1,4 @@
+/* The preloader that shows the loading effect before the webpage is loaded */
 #preloader {
   background-color: #f7f7f7;
   width: 100%;
@@ -28,13 +29,10 @@
   margin-top: 200px;
 }
 
+/* Settings for navigation bar */
 .logo {
   width: 144px;
   height: 101px;
-}
-
-#body {
-  background-color: #ffeeaa;
 }
 
 .nav-link {
@@ -52,22 +50,9 @@
   background-color: #6d0709;
 }
 
-.slider-area .caption h1 {
-  font-size: 90px;
-  font-weight: 900;
-  color: #6d0709;
-  font-family: "Barlow", sans-serif;
-  line-height: 1.2;
-  text-transform: uppercase;
-  padding-left: 350px;
-  padding-top: 50px;
-}
-
-.slider-area .caption p {
-  font-size: 23px;
-  line-height: 30px;
-  color: #6d0709;
-  padding-left: 580px;
+/* General settings */
+#body {
+  background-color: #ffeeaa;
 }
 
 section {
@@ -78,6 +63,31 @@ section {
   padding-top: 160px;
 }
 
+/* Settings for the home section */
+#home {
+  padding-bottom: 300px;
+}
+
+.slider-area .caption h1 {
+  font-size: 90px;
+  font-weight: 900;
+  color: #6d0709;
+  font-family: "Barlow", sans-serif;
+  line-height: 1.2;
+  text-transform: uppercase;
+  padding-top: 50px;
+  margin: auto;
+  width: 650px;
+}
+
+.slider-area .caption p {
+  font-size: 23px;
+  line-height: 30px;
+  color: #6d0709;
+  padding-left: 580px;
+}
+
+/* Settings for picture located on the left or right */
 .pic_left {
   margin-left: 200px;
   width: 400px;
@@ -88,12 +98,9 @@ section {
   width: 400px;
 }
 
+/* Settings for introduction section */
 .intro_text {
   font-size: 1.3em;
-}
-
-#home {
-  padding-bottom: 300px;
 }
 
 #introduction {
@@ -106,6 +113,7 @@ section {
   font-weight: bold;
 }
 
+/* Settings for the experience section */
 #experience {
   background-color: #6d0709;
   padding-bottom: 200px;
@@ -133,6 +141,7 @@ section {
   padding-left: 160px;
 }
 
+/* Settings for the interest section */
 #interest .container h1 {
   color: #6d0709;
   font-weight: bold;
@@ -158,6 +167,7 @@ section {
   padding-bottom: 200px;
 }
 
+/* Settings for the footer area */
 .footer_area {
   background-color: #6d0709;
   padding-bottom: 10px;
@@ -172,6 +182,7 @@ section {
   width: 700px;
 }
 
+/* Settings for the "go-top" button */
 #goToTop {
   position: fixed;
   bottom: 10%;
