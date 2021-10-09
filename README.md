@@ -1,6 +1,6 @@
 # sixtraps.github.io
 
-Author: Xuejia Yang
+Author: Xuejia Yang https://sixtraps.github.io
 
 Class Link: https://johnguerra.co/lectures/webDevelopment_fall2021/
 
