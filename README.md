@@ -1,4 +1,4 @@
-# sixtraps.github.io
+Project name: Xuejia Yang's very first Personal Homepage
 
 Author: Xuejia Yang https://sixtraps.github.io
 
@@ -30,3 +30,5 @@ Features of this webpage:
    time. In the interest section, I also adapted animations to show my different interests so as to make the webpage tidier.
 4. A "back-to-top" button was placed at the bottom right corner. It was hidden initially. If you scroll down the page for a bit, it will fade in
    and show itself. Clicking this button will navigate you to the top of the webpage.
+
+Video demonstration:
