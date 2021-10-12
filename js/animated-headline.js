@@ -152,3 +152,6 @@ jQuery(document).ready(function($){
 		$newWord.removeClass('is-hidden').addClass('is-visible');
 	}
 });
+
+// CODE REVIEW
+// RL: Really cool use of animation.
